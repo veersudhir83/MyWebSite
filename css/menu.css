@@ -70,3 +70,25 @@ body {
 .icon-menu i {
   margin-right: 5px;
 }
+
+div2 {
+    height:100px;
+    width:100px;
+    border-radius:5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Sans-Serif;
+    margin-right:5px;
+}
+
+#ready {
+    background-color:#008800;
+    color:#FFFFFF;
+}
+
+#notready {
+    background-color:#FF0000;
+    color:#FFFFFF;
+}
